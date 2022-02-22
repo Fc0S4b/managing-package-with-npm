@@ -4,6 +4,7 @@
     "author": "Francisco",
     "keywords": ["appTest", "freecodecamp", "Learn to be a Programmer"],
     "license": "MIT",
+    "version": "1.0",
     "dependencies": {
         "express": "^4.14.0"
     },
