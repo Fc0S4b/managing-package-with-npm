@@ -3,6 +3,7 @@
     "description": "a web app for test ",
     "author": "Francisco",
     "keywords": ["appTest", "freecodecamp", "Learn to be a Programmer"],
+    "License": "MIT",
     "dependencies": {
         "express": "^4.14.0"
     },
